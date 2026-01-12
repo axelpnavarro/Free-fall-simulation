@@ -8,7 +8,7 @@ This project simulates the motion of an object in free fall using Python.
 - Practice scientific programming
 
 ## Model assumptions
-- Constant gravitational acceleration (9.9 m/s)
+- Constant gravitational acceleration (9.8 m/s)
 - No air resistance
 - One-dimensional motion
 
